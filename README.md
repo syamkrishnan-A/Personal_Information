@@ -1,4 +1,3 @@
-# Personal_Information
 # Personal Introduction Program
 
 ## 📌 Project Description
